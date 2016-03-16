@@ -1,0 +1,56 @@
+body{
+	background-color: #eee;
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+#tableContainer{
+	display: table;
+}
+#tableRow{
+	display: table-row;
+}
+section#td{
+ 	float: left;
+	width: 200px;
+	padding: 30px 20px 20px 20px;
+	border:1px solid #999;
+	background-color: #fff;
+	margin: 20px;
+
+}
+#logo{
+	position: absolute;
+	left: 40px;
+
+
+}
+section#td h2{
+	float: right;
+	font-size: 20px;
+	vertical-align: top;
+	margin: 0 0 60px 0;
+			
+}
+
+section#main{
+	padding: 0 20px 20px 20px;
+	margin: 20px 210px 0 290px;
+	border:1px solid #999;
+	background-color: #fff;	
+	
+
+}
+aside{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	width: 120px;
+	padding: 20px;
+	border:1px solid #999;
+	background-color: #fff;	
+	margin: 20px 20px 0 0;
+
+}
+aside .photos{
+	padding: 0 20px 10px 20px;
+}
